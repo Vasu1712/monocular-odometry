@@ -1,0 +1,19 @@
+{
+  "name": "mono-vo",
+  "version": "1.0.0",
+  "description": "This is an OpenCV 3.0 based implementation of a monocular visual odometry algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avisingh599/mono-vo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avisingh599/mono-vo/issues"
+  },
+  "homepage": "https://github.com/avisingh599/mono-vo#readme"
+}
